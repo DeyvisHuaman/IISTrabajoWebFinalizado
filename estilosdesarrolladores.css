@@ -29,19 +29,22 @@ header {
 }
 
 #inicio {
-    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-align:center;
+    padding-top: 10px;
+    margin-top: 100px;
     color: #5e34fe;
-    text-decoration: underline;
-    font-size: 80px;
+    font-size: 60px;
     margin: 10px 70px 10px 30px;
-    width: 100%;
+    width: 100%
+   
 }
 
 .titulos {
     text-align: center;
     color: #5e34fe;
-    text-decoration: underline;
     font-size: 40px;
+    border-style:dashed;
 }
 
 .enlacesalapagina {
